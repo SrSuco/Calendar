@@ -1,4 +1,4 @@
-package com.poo.springjpademo.entity;
+package src.main.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

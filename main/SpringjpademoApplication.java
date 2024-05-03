@@ -1,4 +1,4 @@
-package com.poo.springjpademo;
+package src.main;
 
 import com.poo.springjpademo.entity.Disciplina;
 import com.poo.springjpademo.entity.Professor;
