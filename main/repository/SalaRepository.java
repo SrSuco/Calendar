@@ -4,5 +4,5 @@ import com.poo.springjpademo.entity.Sala;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface SalaRepository extends JpaRepository<Sala, Long> {
-    // Custom query methods for Sala can be added here
+
 }
